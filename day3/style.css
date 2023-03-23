@@ -64,4 +64,5 @@ section article {
     height: 100px;
     float: left;
     border: 1px solid red;
+    box-sizing: border-box;
 }
